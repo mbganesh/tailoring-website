@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-This project was uploaded on GitHub Pages [Go Live](https://github.com/facebook/create-react-app).
+This project was uploaded on GitHub Pages [Go Live](https://mbganesh.github.io/my_profile/).
 
 
 
